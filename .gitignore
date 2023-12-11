@@ -2,5 +2,5 @@
 target/
 **/*.rs.bk
 .idea/
-2023/day_01/.idea
-2023/day_01/target
+2023/**/.idea
+2023/**/target
